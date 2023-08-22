@@ -1,0 +1,110 @@
+main {
+    display: flex;
+    
+    
+    
+}
+
+
+
+.grid-container1 {
+    background-color: pink;
+    display: flex;
+    flex-flow:column wrap;
+    
+    border: solid black;
+    width: 40%;
+    align-items: center;
+    
+}   
+
+/* .Image {
+    display: flex;
+    flex-direction: ;
+    justify-content: center;
+    align-items: ;
+
+} */
+
+.Contact Details {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    text-align: left;
+}
+
+.Work-References {
+    display: flex;
+    /* margin: auto; */
+    flex-direction: column;
+    
+    
+
+
+}
+
+
+
+.Name{
+    padding-left: 15px;
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.Past {
+    padding-left: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: row; */
+    flex-direction: column;
+    
+    
+}
+
+.Container3 {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.personal-summary {
+    max-width: 50%;
+}
+
+.work-history { 
+    
+    display: flex;
+    flex-direction: row
+    
+    
+} 
+
+.point1 {
+    display: flex;
+    align-self: flex-end;
+    
+}
+.container4 {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+    
+    
+}
+
+ .container5 {
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .academic-history {
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+
+ }
